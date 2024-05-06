@@ -16,12 +16,11 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-<<<<<<< HEAD
+
 div {
   background-color: darkcyan;
   text-align: right;
- }
-=======
+}
 
 th,
 td {
@@ -30,7 +29,6 @@ td {
   border-bottom: 1px solid #ddd;
   font-family: Arial
 }
->>>>>>> origin/add-table
 
 tr:nth-child(odd) {
   background-color: #f2f2f2;
